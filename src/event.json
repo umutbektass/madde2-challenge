@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "title":"BKM Yaz Etkinlikleri :Zengin Mutfağı",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"tiyatro"
+       
+      
+    },
+    {
+        "id":2,
+        "title":"Yasemin Sakallıoğlu",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"stand-up"
+      
+    },
+    {
+        "id":3,
+        "title":"Sinema Keyfi:Rifkin's Festival",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"sinema"
+      
+    },
+    {
+        "id":4,
+        "title":"BKM Yaz Etkinlikleri :Zengin Mutfağı",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"konser"
+      
+    },
+    {
+        "id":5,
+        "title":"Yasemin Sakallıoğlu",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"stand-up"
+    
+    },
+    {
+        "id":6,
+        "title":"Sinema Keyfi:Rifkin's Festival",
+        "location":"Maximum UNIQ Hall",
+        "description":"1978 yılında ilk kez İstanbul Şehir Tiyatrolarında bu oyunda aşçi Lütfü Usta'yı canlandıran Şener Şen,40 yıl aradan sonra aynı rolde ve genç bir....Detalı Bilgi",
+        "category":"sinema"
+      
+    }
+]
